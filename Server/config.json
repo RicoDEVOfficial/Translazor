@@ -1,0 +1,6 @@
+{
+  "host": "0.0.0.0",
+  "port": 19215,
+  "encryption_key": "w7rMbdnsIgwx0nqV0_GPoR2abwQDbB6TXhZBvU1KZ6o=",
+  "database": "DB/database.json"
+}
